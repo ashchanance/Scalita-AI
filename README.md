@@ -18,15 +18,6 @@ The output is not a narrative. The output is **ready-to-use structured data**:
 - `volatility_risk` — Risk level: Low / Medium / High / Extreme
 - `key_drivers` — 3 main price-driving keywords
 - `action_signal` — Signal: Watch Closely / Potential Upside / Correction Risk
-
----
-
-## Live Demo
-
-| | |
-|---|---|
-| **Live App** | [tapereader.vercel.app](https://tapereader-ten.vercel.app/) |
-| **Dashboard** | [tapereader.vercel.app/dashboard](https://tapereader-ten.vercel.app/dashboard) |
     
 ---
 
