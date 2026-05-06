@@ -3,7 +3,8 @@
 > **AI-Powered Tape Reading for Scalpers & Day Traders**  
 > Cut the Noise. Trade the Signal.
 
-<img width="721" height="480" alt="sc" src="https://github.com/user-attachments/assets/a3b0ea91-c587-44d9-b3d3-85b336a83c07" />
+<img width="1024" height="338" alt="sacs" src="https://github.com/user-attachments/assets/0fe15c48-6d32-41dd-bf11-5960b1469927" />
+
 
 
 ---
