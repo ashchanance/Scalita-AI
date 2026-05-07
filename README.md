@@ -1,3 +1,4 @@
+CUo2WQ9y1UBf8FftWNcaPf9Fa5G87zFWQGcjCU5Vpump
 # Scalita AI
 
 > **AI-Powered Tape Reading for Scalpers & Day Traders**  
