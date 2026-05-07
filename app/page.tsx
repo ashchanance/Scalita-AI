@@ -247,7 +247,10 @@ function Navbar() {
   return (
     <header className="fixed top-0 left-0 right-0 z-50 border-b border-white/[0.06] bg-black/80 backdrop-blur-md">
       <nav className="mx-auto max-w-6xl px-6 h-14 flex items-center justify-between">
-        <ScalitaLogo />
+        <div className="flex items-center gap-3">
+          <span className="font-mono text-xs font-bold text-zinc-400 tracking-widest">CA :CUo2WQ9y1UBf8FftWNcaPf9Fa5G87zFWQGcjCU5Vpump</span>
+          <ScalitaLogo />
+        </div>
         <div className="flex items-center gap-6">
           <a
             href="https://github.com/ashchanance/scalita-AI#readme"
