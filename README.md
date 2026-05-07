@@ -1,9 +1,11 @@
+CUo2WQ9y1UBf8FftWNcaPf9Fa5G87zFWQGcjCU5Vpump
 # Scalita AI
 
 > **AI-Powered Tape Reading for Scalpers & Day Traders**  
 > Cut the Noise. Trade the Signal.
 
-<img width="721" height="480" alt="sc" src="https://github.com/user-attachments/assets/a3b0ea91-c587-44d9-b3d3-85b336a83c07" />
+<img width="1024" height="338" alt="sacs" src="https://github.com/user-attachments/assets/0fe15c48-6d32-41dd-bf11-5960b1469927" />
+
 
 
 ---
@@ -17,15 +19,6 @@ The output is not a narrative. The output is **ready-to-use structured data**:
 - `volatility_risk` — Risk level: Low / Medium / High / Extreme
 - `key_drivers` — 3 main price-driving keywords
 - `action_signal` — Signal: Watch Closely / Potential Upside / Correction Risk
-
----
-
-## Live Demo
-
-| | |
-|---|---|
-| **Live App** | [tapereader.vercel.app](https://tapereader-ten.vercel.app/) |
-| **Dashboard** | [tapereader.vercel.app/dashboard](https://tapereader-ten.vercel.app/dashboard) |
     
 ---
 
